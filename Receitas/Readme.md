@@ -1,3 +1,4 @@
-* Livrro de Receitas*
+* Livro de Receitas
 
-## Bem  Vindo!## 
+## Bem  Vindo! Ao livro de receita 
+
